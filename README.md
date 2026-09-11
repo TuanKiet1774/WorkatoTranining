@@ -19,7 +19,7 @@
 | [WorkatoNote.pdf](WorkatoNote.pdf)| Ghi chú tổng hợp trong quá trình học và ôn tập Workato.|
 | [FinalLab.pdf](FinalLab.pdf)| Mock Project dùng để thực hành và kiểm tra khả năng áp dụng kiến thức. |
 | [TechnicalDeveloperAssessment.pdf](TechnicalDeveloperAssessment.pdf) | Bài đánh giá sau quá trình học và các lưu ý.|
-| [WorkatoMockProjec.pdf](WorkatoMockProjec.pdf)| Hướng dẫn và ghi chú dành cho Final Lan - Mock project|
+| [WorkatoMockProjec.pdf](WorkatoMockProjec.pdf)| Hướng dẫn và ghi chú dành cho Final Lab - Mock project|
 
 ## Một số nền tảng thực hành
 
