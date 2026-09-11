@@ -1,7 +1,6 @@
 # Workato Training
 
-<img width="2000" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPpVfMopgp9RXagFUf1jN3N2MXkshAaDY6Vc0j4FRf03OVhi31Y-KkWo&s=10
-" />
+<img width="1000" alt="Workato" src="https://github.com/user-attachments/assets/6bf0c90b-265d-45a2-8a1c-b2ba82e37d6b" />
 
 > Kho tài liệu tự học và luyện tập về nền tảng tự động hóa Workato.
 
