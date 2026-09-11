@@ -29,3 +29,8 @@
 | [Salesforce](https://www.salesforce.com/ap/?ir=1) | Nền tảng quản lý quan hệ khách hàng (CRM) số một thế giới chạy trên nền tảng điện toán đám mây |
 | [Jira](https://www.atlassian.com/software/jira) | Phần mềm theo dõi, quản lý công việc và dự án phổ biến do công ty Atlassian phát triển|
 | [Slack](https://slack.com/get-started#create) | Nền tảng giao tiếp và cộng tác trực tuyến giúp các nhóm làm việc trong doanh nghiệp kết nối, trao đổi công việc và quản lý dự án hiệu quả|
+
+---
+
+> **📌 Lưu ý:**  
+> Các thông tin chỉ mang tính chất tham khảo và học tập.
