@@ -17,9 +17,8 @@
 | Tài liệu| Mục đích sử dụng|
 | - | - |
 | [WorkatoNote.pdf](WorkatoNote.pdf)| Ghi chú tổng hợp trong quá trình học và ôn tập Workato.|
-| [FinalLab.pdf](FinalLab.pdf)| Mock Project dùng để thực hành và kiểm tra khả năng áp dụng kiến thức. |
+| [WorkatoMockProject.pdf](WorkatoMockProject.pdf)| Mock Project dùng để thực hành và kiểm tra khả năng áp dụng kiến thức. |
 | [TechnicalDeveloperAssessment.pdf](TechnicalDeveloperAssessment.pdf) | Bài đánh giá sau quá trình học và các lưu ý.|
-| [WorkatoMockProject.pdf](WorkatoMockProject.pdf)| Hướng dẫn và ghi chú dành cho Final Lab - Mock project|
 
 ## Một số nền tảng thực hành
 
